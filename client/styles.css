@@ -1,0 +1,19 @@
+.title {
+	text-align: center;
+}
+
+.meow-form, .loading{
+	width : 50%;
+	text-align: center;
+	margin : 0 auto;
+}
+
+.loading{
+	text-align: center;
+	
+}
+.mews{
+	width : 50%;
+	margin: 0 auto;
+	
+} 
